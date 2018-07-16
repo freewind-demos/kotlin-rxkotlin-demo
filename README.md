@@ -1,4 +1,4 @@
-Kotlin Hello World Demo
-=======================
+Kotlin RxKotlin Hello World Demo
+================================
 
-Hello world from kotlin. Open it in IDE and run `Hello.kt`
+[RxKotlin](https://github.com/ReactiveX/RxKotlin) hello world demo.
